@@ -1,7 +1,7 @@
 
 <img src = "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width = 20px> </h1>
 <p align='center'>
-<h1> Hello Fellow <Developers/>!
+<h1> Hello Fellow < Developers/ >!
 
 
 
