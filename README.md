@@ -1,4 +1,4 @@
-![SS](https://user-images.githubusercontent.com/87259628/174604854-f55381b7-ce09-4b96-8a5f-317682982dfd.png)
+(https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 
 
