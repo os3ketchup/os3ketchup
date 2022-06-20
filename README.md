@@ -1,10 +1,15 @@
 # 💫About Me :
 🔭 I’m currently working on my Skills.
 🌱 I’m currently learning more about Android Development.
+
 🤔 I’m looking for help with Exploring New Technologies.
+
 💬 Ask me about any tech-related stuff.
+
 📫 How to reach me: Email - eldorteshaboyev1994@gmail.com
+
 😄 Pronouns: He/His
+
 ⚡ Fun fact: I am actually epidemiolgyst and learning android development parallel with my current job
 
 ## 🌐Socials
