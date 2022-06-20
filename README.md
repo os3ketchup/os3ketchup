@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **retrofit, clean code architecture**
 
-- 👨‍💻 All of my projects are available at [[https://play.google.com/store/apps/dev?id=7842842691442287075](https://play.google.com/store/apps/dev?id=7842842691442287075)](https://play.google.com/store/apps/dev?id=7842842691442287075)
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=7842842691442287075](https://play.google.com/store/apps/dev?id=7842842691442287075)
 
 - 📫 How to reach me **eldorteshaboyev1994@gmail.com**
 
