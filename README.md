@@ -1,5 +1,8 @@
-# 💫About Me :
+# 💫About Me :![I'm a Graphic Designer Specializing in Layout and Branding](https://user-images.githubusercontent.com/87259628/174602016-04252c91-03ef-4336-a3cf-f8988ec57872.png)
+
+
 🔭 I’m currently working on my Skills.
+
 🌱 I’m currently learning more about Android Development.
 
 🤔 I’m looking for help with Exploring New Technologies.
