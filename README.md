@@ -1,10 +1,10 @@
-\<div align="center"\>
+<div align="center"\>
 
-\<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3czcjVkbWoxOGd3am1mdjY2ZHBpZGRqY2w0ZzM5cHB0bW51c2Y3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1o8F9P8QhM1M2s0/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3czcjVkbWoxOGd3am1mdjY2ZHBpZGRqY2w0ZzM5cHB0bW51c2Y3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1o8F9P8QhM1M2s0/giphy.gif)" width="100" alt="Animated greeting"/\>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3czcjVkbWoxOGd3am1mdjY2ZHBpZGRqY2w0ZzM5cHB0bW51c2Y3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1o8F9P8QhM1M2s0/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3czcjVkbWoxOGd3am1mdjY2ZHBpZGRqY2w0ZzM5cHB0bW51c2Y3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1o8F9P8QhM1M2s0/giphy.gif)" width="100" alt="Animated greeting"/\>
 
-\<h1\>Hello, I'm [Your Name]\!\</h1\>
+<h1\>Hello, I'm [Your Name]\!\</h1\>
 
-\</div\>
+</div\>
 
 -----
 
